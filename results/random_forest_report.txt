@@ -1,0 +1,16 @@
+Random Forest - Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.84      0.83      0.83        98
+
+    accuracy                           1.00     56962
+   macro avg       0.92      0.91      0.92     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Random Forest - Matriz de Confusão:
+[[56848    16]
+ [   17    81]]
+Random Forest - AUC: 0.9644
+Random Forest - MSE: 0.0006
+Random Forest - MAE: 0.0033
