@@ -1,0 +1,16 @@
+Regressão Logística - Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99     56864
+           1       0.09      0.91      0.16        98
+
+    accuracy                           0.98     56962
+   macro avg       0.54      0.95      0.57     56962
+weighted avg       1.00      0.98      0.99     56962
+
+Regressão Logística - Matriz de Confusão:
+[[55916   948]
+ [    9    89]]
+Regressão Logística - AUC: 0.9743
+Regressão Logística - MSE: 0.0156
+Regressão Logística - MAE: 0.0466
